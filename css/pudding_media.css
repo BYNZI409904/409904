@@ -350,6 +350,10 @@
   .sec4{
     padding-top: 10vw;
   }
+    .sec5{
+    width: 100%;
+    height: 300px;
+  }
   .sec5 .onover .imgbox .left figure img{
     width: 90%;
   }
